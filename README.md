@@ -71,6 +71,7 @@ The project generates:
 ### House Price Distribution
 
 [Price Distribution]
+<img width="2400" height="1500" alt="Image" src="https://github.com/user-attachments/assets/05e2bbf8-56a9-41cc-b7f8-50653e403653" />
 
 ---
 
