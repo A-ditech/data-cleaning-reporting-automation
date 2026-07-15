@@ -66,6 +66,7 @@ The project generates:
 ### Missing Values Report
 
 [Missing Values]
+<img width="3600" height="1800" alt="Image" src="https://github.com/user-attachments/assets/bc7d82fc-cfcd-4082-b091-eb4c02bffddc" />
 
 ### House Price Distribution
 
